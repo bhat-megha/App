@@ -15,6 +15,7 @@ STEP 3. Start the Frontend
 2.	npm install
 3.	npm start
 Frontend will run at: http://localhost:3000
+<img width="427" alt="image" src="https://github.com/user-attachments/assets/b2b19be2-74fb-4aaf-9c05-84d0f6713592" />
 
  
 
@@ -26,4 +27,5 @@ STEP 4: Testing the App
 •	sqlite3 database.db
 •	SELECT * FROM receipts;
 •	.quit
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/3700e6f9-298e-45f1-8a84-7b0630f0e553" />
 
